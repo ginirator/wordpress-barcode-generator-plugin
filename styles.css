@@ -1,0 +1,13 @@
+.form-group {
+    margin-bottom: 20px;
+}
+
+.control-label {
+    font-weight: 600;
+}
+
+.col-submit-button {
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
