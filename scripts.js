@@ -1,5 +1,4 @@
 jQuery(document).ready(function ($) {
-	console.log(online_tool_object.online_tool_url + '/barcode.php');
 	$('#barcodeForm').on('submit', function(e) {
 		e.preventDefault();
 		$.ajax({
