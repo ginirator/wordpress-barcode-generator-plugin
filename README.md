@@ -11,7 +11,7 @@ This WordPress plugin allows users to generate and print barcodes from the brows
 ## Usage:
 * Clone this repository into your WordPress plugins folder.
 * Activate the plugin from the WordPress admin panel.
-* Use the shortcode [barcode_generator] to embed the barcode generator form on any page or post.
+* Use the shortcode `[barcode_generator]` to embed the barcode generator form on any page or post.
 * Fill in the product details in the form and click "Generate & Print Barcodes" to create your barcodes.
 
 ## Files:
